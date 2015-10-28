@@ -1,1 +1,2 @@
 # adamant-lamp
+lamp
